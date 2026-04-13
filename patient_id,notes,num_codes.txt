@@ -1,0 +1,4 @@
+patient_id,notes,num_codes
+1,patient has diabetes and high glucose,5
+2,no signs of diabetes,0
+3,blood sugar elevated,3
